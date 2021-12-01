@@ -1,1 +1,4 @@
-
+#ifndef ESERCIZIO_VALUTATO_6_LIB_H
+#define ESERCIZIO_VALUTATO_6_LIB_H
+bool verifica(char);
+#endif //ESERCIZIO_VALUTATO_6_LIB_H
